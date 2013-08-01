@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<!-- NMML reference: https://gist.github.com/1763850 -->
+	
+	<!-- metadata, make sure 'package' is at least 3 segments (ie. com.mycompany.myproject) -->
+	<meta title="testgameOpenFL" package="testgameOpenFL" version="1.0.0" company="Cristian Duro" />
+	
+	<!-- output -->
+	<app main="Main" file="testgameOpenFL" path="bin" />
+	
+	<window background="#FFFFFF" fps="30" />
+	<window width="800" height="600" unless="mobile" />
+	<window orientation="landscape" vsync="false" antialiasing="0" if="cpp" />
+	
+	<!-- classpath, haxe libs -->
+	<source path="src" />
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="spritesheet" />
+	
+	<!-- assets -->
+	<icon path="../assets/openfl.svg" />
+	<assets path="../assets/font/Handycandy.ttf" />
+	<assets path="../assets/smiley.xml" />
+	<assets path="../assets/smiley.png" />	
+			
+	<!-- optimize output -->
+	<haxeflag name="-dce std" if="haxe3" />
+	
+	<haxedef name="fdb" if="target_flash" />
+	
+</project>
