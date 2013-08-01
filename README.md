@@ -5,7 +5,7 @@ An example of a simple Memory Game (match pairs) developed in openFL (Flash &amp
 
 I'd like to say, for the record, that <b>the game is not 100% finished.</b> It's a very first versiod and there's room for a ton of improvements, optimizations, etc. The most complete version is the one developed with createJS, because is using the amazing TweenMax libraries to make the animations, alpha's, etc. (pixiJS still doesn't support a full use of the library).
 
-<b>IMPORTANT</b> &rarr; The folders <i><b>'assets'</b></i> and <i><b>'js'</b></i> are shared by all the 3 games).
+<b>IMPORTANT</b> &rarr; The folders <i><b>'assets'</b></i> and <i><b>'js'</b></i> are shared by all the 3 games.
 
 For testing the games, the best way is to do it on a localhost on your computer. Other way, some of the games won't properly works (cross domain permissions, etc).
 
