@@ -9,6 +9,10 @@ I'd like to say, for the record, that <b>the game is not 100% finished.</b> It's
 
 For testing the games, the best way is to do it on a localhost on your computer. Other way, some of the games won't properly works (cross domain permissions, etc).
 
+![Image](http://nohayvueltaatras.com/xp/memorygame.png)
+
+
+
 Purpose
 ======================================================================
 
