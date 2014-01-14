@@ -7,7 +7,7 @@ I'd like to say, for the record, that <b>the game is not 100% finished.</b> It's
 
 <b>IMPORTANT</b> &rarr; The folders <i><b>'assets'</b></i> and <i><b>'js'</b></i> are shared by all the 3 games.
 
-For testing the games, the best way is to do it on a localhost on your computer. Other way, some of the games won't properly works (cross domain permissions, etc).
+For testing the games, the best way is to do it on a localhost on your computer. Otherway, some of the games won't properly work (cross domain permissions, etc).
 
 ![Image](http://nohayvueltaatras.com/xp/memorygame.png)
 
