@@ -45,4 +45,4 @@ Images used in the game
 ======================================================================
 
 The used icon set is copyright © 2003 of Christophe Bouchard. You can freely redistribute it and use it for your personal purpose.
-If you want to use these icons for a commercial purpose, you will need the permission of the author (Christophe Bouchard - aka Monsieur Mérou). So, please contact him before at m.merou@9online.fr
+If you want to use these icons for a commercial purpose, you will need the permission of the author (Christophe Bouchard - aka Monsieur Mérou). So, please contact him before at c.bouchard@free.fr
